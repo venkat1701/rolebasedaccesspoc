@@ -42,7 +42,7 @@ This project demonstrates **authentication**, **authorization**, and **role-base
 1. Clone the repository:
     ```bash
     git clone https://github.com/venkat1701/rolebasedaccesspoc
-    cd auth-authorization-preauthorize
+    cd rolebasedaccesspoc
     ```
 
 2. Configure the database in the `application.yml` or `application.properties` file:
